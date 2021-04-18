@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Blues brothers 2000 (1998)
-http://192.168.0.100/Multimedia/Peliculones/Blues brothers 2000 (1998).mkv
+SMB://192.168.0.100:445/Multimedia/Peliculones/Blues brothers 2000 (1998).mkv
 #EXTINF:-1,Gravity (2013)
-http://192.168.0.100/Multimedia/Peliculones/Gravity (2013).mkv
+SMB://192.168.0.100:445/Multimedia/Peliculones/Gravity (2013).mkv
+#EXTINF:-1,Barrenderos Espaciales (2021)
+SMB://192.168.0.100:445/Multimedia/Peliculones/Barrenderos Espaciales (2021).mkv
 
